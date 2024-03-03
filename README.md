@@ -6,8 +6,6 @@ This project focuses on analyzing seasonal patterns within pharmacy sales data, 
 
 The initial datasets contain six years of transactional records from a pharmacy's Point-of-Sale system. The data includes information such as date, time, pharmaceutical details, and sales quantities. The analysis shifted focus from individual drugs to broader categories under the ATC classification system, resulting in hourly time-series data aggregated into weekly sales for analysis.
 
-[Click here to access the dataset]((https://docs.google.com/presentation/d/1umS0-7ji4FN_5YLwsfS-t4uGx9SBLsgErKUq7kYKuc8/edit#slide=id.p))
-
 ## Objective
 
 The project aims to:
@@ -24,5 +22,4 @@ Model selection relied on comparing forecasting accuracies among models such as 
 
 The results highlighted Neural Networks as the optimal model for most drug categories, ensuring accurate forecasts with lower errors. Recommendations encompass tailored strategies for inventory management, marketing, staffing, and financial planning for each drug category based on forecasting observations.
 
-[Access the presentation slide deck for detailed insights](link_to_presentation_slides)
 
