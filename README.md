@@ -1,5 +1,7 @@
 # Pharmacy Sales - Seasonality Analysis
 
+![image](https://github.com/poojagotur/Pharmary-Sales-Seasonality-Analysis/assets/138715091/f760a83f-631e-4fbb-ac7a-a9f2c7eb7875)
+
 This project focuses on analyzing seasonal patterns within pharmacy sales data, aiming to provide insights that can optimize staffing and marketing strategies. The research compares contemporary time-series forecasting methods against basic models, utilizing a comprehensive six-year dataset that captures eight distinct drug categories.
 
 ## Data
